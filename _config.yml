@@ -2,15 +2,28 @@ title: Mirthe Dankloff # Replace with your site's name
 description:  # A short tagline or description
 
 nav:
-  - title: Home
+  - title: "Home"
     url: /
-  - title: About
+  - title: "About"
     url: /about/
-  - title: Blog
+  - title: "Publications"
     url: /blog/
 
+# Site Author
+author:
+  name             : "Mirthe Dankloff"
+  avatar           : ""
+  bio              : "PhD Student at Civic AI Lab, Vrije Universiteit Amsterdam"
+  location         : "Amsterdam, Netherlands"
+  googlescholar    : ""
+  email            : "m.e.dankloff@vu.nl"
+  researchgate     :
+  github           : "MDankloff"
+  instagram        :
+  linkedin         : "https://www.linkedin.com/in/mirthe-dankloff-2a890a19b/"
+  orcid            :
+  twitter          : "MDankloff"
 
-author: Mirthe Dankloff # Replace with your name
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -19,8 +32,4 @@ plugins:
 url: "MDankloff.github.io"  # Replace with your site's URL
 baseurl: ""  # Leave empty for the root, or specify subdirectory (e.g., /blog)
 
-social_links:
-  twitter: your_twitter_handle
-  github: MDankloff
-  linkedin: https://www.linkedin.com/in/mirthe-dankloff-2a890a19b/
   
