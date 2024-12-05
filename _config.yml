@@ -1,10 +1,12 @@
-title: My GitHub Pages Site  # Replace with your site's name
+title: Mirthe Dankloff # Replace with your site's name
 description: A description of my site  # A short tagline or description
-author: Your Name  # Replace with your name
-theme: minima  # Default theme provided by GitHub Pages
-url: https://example.com  # Replace with your site's URL
+author: Mirthe Dankloff # Replace with your name
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+url: MDankloff.github.io  # Replace with your site's URL
 baseurl: ""  # Leave empty for the root, or specify subdirectory (e.g., /blog)
 social_links:
   twitter: your_twitter_handle
-  github: your_github_username
-  linkedin: your_linkedin_profile
+  github: MDankloff
+  linkedin: https://www.linkedin.com/in/mirthe-dankloff-2a890a19b/
