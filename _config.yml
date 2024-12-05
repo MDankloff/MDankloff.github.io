@@ -29,7 +29,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-url: "MDankloff.github.io"  # Replace with your site's URL
+url: "https://MDankloff.github.io"  # Replace with your site's URL
 baseurl: ""  # Leave empty for the root, or specify subdirectory (e.g., /blog)
 
   
