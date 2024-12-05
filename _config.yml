@@ -1,12 +1,26 @@
 title: Mirthe Dankloff # Replace with your site's name
-description: A description of my site  # A short tagline or description
+description:  # A short tagline or description
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+
+
 author: Mirthe Dankloff # Replace with your name
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
 url: "MDankloff.github.io"  # Replace with your site's URL
 baseurl: ""  # Leave empty for the root, or specify subdirectory (e.g., /blog)
+
 social_links:
   twitter: your_twitter_handle
   github: MDankloff
   linkedin: https://www.linkedin.com/in/mirthe-dankloff-2a890a19b/
+  
